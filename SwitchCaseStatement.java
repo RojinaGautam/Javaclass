@@ -126,7 +126,6 @@ public class SwitchCaseStatement {
         //"jp" ->"Selected Japanese"
         //"np" -> "Selected Nepali"
         //else -> "Unknown locale"
-
         String locale = "np";
         switch (locale){
             case "en/us or en/uk":
@@ -148,6 +147,3 @@ public class SwitchCaseStatement {
     }
 }
  
-
-      
-
